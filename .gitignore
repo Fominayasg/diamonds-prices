@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+Tests.ipynb
+.DS_Store
+
+.ipynb_checkpoints/
+.vscode/
+
+test.csv
+sample_submission.csv
+train.csv
+diamonds_dummies.csv
