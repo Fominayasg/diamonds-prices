@@ -1,6 +1,6 @@
 # Diamonds price
 
-![portada] (https://github.com/Fominayasg/diamonds-prices/blob/main/images/portada.png)
+![picture](https://github.com/Fominayasg/diamonds-prices/blob/main/images/portada.png)
 
 This project has been developed during Ironhack's data analysis bootcamp.
 
@@ -23,7 +23,7 @@ In outcomes we store the resulting .csv files of the cleaning and the prediction
 
 ## To summarize the results obtained:
 
-![slide] (https://github.com/Fominayasg/diamonds-prices/blob/main/images/slide.png)
+![slide](https://github.com/Fominayasg/diamonds-prices/blob/main/images/slide.png)
  
  
 
