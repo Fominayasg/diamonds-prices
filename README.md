@@ -1,6 +1,6 @@
 # Diamonds price
 
-![portada] (https://github.com/Fominayasg/diamonds-prices.git/)
+![portada] (https://github.com/Fominayasg/diamonds-prices/blob/main/images/portada.png)
 
 This project has been developed during Ironhack's data analysis bootcamp.
 
@@ -21,6 +21,11 @@ In the "data" folder, the .csv files of the kaggle database. This are included i
 
 In outcomes we store the resulting .csv files of the cleaning and the prediction .csv files resulting from de linnear regresion model and the random forest model.
 
+## To summarize the results obtained:
+
+![slide] (https://github.com/Fominayasg/diamonds-prices/blob/main/images/slide.png)
+ 
+ 
 
 
 ## Technology Stack
